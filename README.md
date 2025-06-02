@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there! I'm Arsen Gumin
 
-<!--
-**aagumin/aagumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and develop Cloud Native solutions for ML/AI platforms, build data and BI systems, it's not my 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Skills
+
+### 💻 Programming Languages
+- Python • Golang
+
+### ⚙️ Data / ML Stack
+- Apache Spark • MLflow • Airflow • Arrow • Kafka  
+- Superset • Power BI • Prefect • Luigi
+
+### ☁️ Cloud / DevOps
+- Kubernetes • Docker • OpenShift • GitLab CI • S3  
+- Seldon Core • CI/CD for ML models
+
+### 📐 Methodologies
+- Scrum • Kanban • Agile • System Design  
+- Certified Scrum Master • Kanban KMP I • Certified LeSS Basics
+
+---
+
+## 📫 Contact
+
+- 📬 [gumin@live.ru](mailto:gumin@live.ru)  
+- 💼 [github.com/aagumin](https://github.com/aagumin)  
+- ✈️ [@arsengumin](https://t.me/arsengumin)
+
+---
+
+> 🧠 Open to collaboration in MLOps, platform ML, and Data Engineering areas.
