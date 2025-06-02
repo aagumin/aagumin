@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Arsen Gumin
 
-I design and develop Cloud Native solutions for ML/AI platforms, build data and BI systems, it's not my 
+I design and develop Cloud Native solutions for ML/AI platforms, build data and BI systems. This is not my primary contribution space — most of my personal projects are stored here."
 
 ---
 
@@ -16,10 +16,6 @@ I design and develop Cloud Native solutions for ML/AI platforms, build data and 
 ### ☁️ Cloud / DevOps
 - Kubernetes • Docker • OpenShift • GitLab CI • S3  
 - Seldon Core • CI/CD for ML models
-
-### 📐 Methodologies
-- Scrum • Kanban • Agile • System Design  
-- Certified Scrum Master • Kanban KMP I • Certified LeSS Basics
 
 ---
 
